@@ -1,0 +1,30 @@
+﻿{
+"222887":{
+					"value":{"moduleinfo":{"head_count":[{}],"list_count":[{}]},
+          				 "head":[{"logo":,"more":,"link":,"name":"女装"}],
+ 									 "list":[
+													 {"name":"初春新品","link":"https://guang.taobao.com/ifashion/qiangxin.htm?catId=16","h":"true"},
+ 													 {"name":"连衣裙","link":"//s.taobao.com/list?style=grid&seller_type=taobao&cps=yes&cat=51108009","h":"true"},
+ 													 {"name":"裤子","link":"https://s.taobao.com/list?q=%E8%A3%A4%E5%AD%90&cat=16&style=grid&seller_type=taobao&spm=a217f.1215286.1000187.1","h":"false"},
+ 													 {"name":"毛呢外套","link":"https://s.taobao.com/list?q=%E6%AF%9B%E5%91%A2%E5%A4%96%E5%A5%97&cat=16&style=grid&seller_type=taobao&spm=a217f.1215286.1000187.1","h":"true"},
+ 													 {"name":"衬衫","link":"//s.taobao.com/list?style=grid&seller_type=taobao&cps=yes&cat=162104","h":"false"},
+ 													 {"name":"毛针织衫","link":"https://s.taobao.com/list?q=%E6%AF%9B%E9%92%88%E7%BB%87%E8%A1%AB&cat=16&style=grid&seller_type=taobao&spm=a217f.1215286.1000187.1","h":"true"}
+													]
+									},
+ 				  "dynamic":False
+				 },
+"222890":{
+					"value":{"moduleinfo":{"head_count":[{},{}],"list_count":[{}]},
+									 "head":[{"logo":,"more":,"link":,"name":"男装"}],
+									 "list":[
+									 				 {"name":"外套","link":"https://s.taobao.com/list?q=%E5%A4%96%E5%A5%97&cat=50344007&style=grid&seller_type=taobao&spm=a219r.lm895.1000187.1","h":"true"},
+									 				 {"name":"衬衫","link":"//s.taobao.com/list?q=衬衫&cat=50344007&style=grid&seller_type=taobao","h":"false"},
+									 				 {"name":"卫衣","link":"https://s.taobao.com/list?q=卫衣&cat=50344007&style=grid&seller_type=taobao","h":"false"},
+									 				 {"name":"皮衣","link":"https://s.taobao.com/list?q=皮衣&cat=50344007&style=grid&seller_type=taobao","h":"false"},
+									 				 {"name":"T恤","link":"//s.taobao.com/list?q=T恤&cat=50344007&style=grid&seller_type=taobao","h":"false"},
+									 				 {"name":"毛衣","link":"https://s.taobao.com/list?q=%E6%AF%9B%E8%A1%A3&cat=50344007&style=grid&seller_type=taobao&spm=a219r.lm895.1000187.1","h":"true"}
+													]
+									},
+					"dynamic":False
+				 },
+}
